@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ubilapaz.edu.bo.template.TemplateApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.62 s -- in ubilapaz.edu.bo.template.TemplateApplicationTests

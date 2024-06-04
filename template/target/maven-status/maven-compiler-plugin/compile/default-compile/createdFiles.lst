@@ -1,0 +1,8 @@
+ubilapaz\edu\bo\template\web\TestController.class
+ubilapaz\edu\bo\template\web\UserController.class
+ubilapaz\edu\bo\template\entity\User.class
+ubilapaz\edu\bo\template\dto\Response.class
+ubilapaz\edu\bo\template\dto\UserDto.class
+ubilapaz\edu\bo\template\dto\UsuarioDto.class
+ubilapaz\edu\bo\template\TemplateApplication.class
+ubilapaz\edu\bo\template\repository\UserRepository.class
